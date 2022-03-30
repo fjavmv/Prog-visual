@@ -1,0 +1,17 @@
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\bin\Debug\net6.0-windows\PruebaRadio.exe
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\bin\Debug\net6.0-windows\PruebaRadio.deps.json
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\bin\Debug\net6.0-windows\PruebaRadio.runtimeconfig.json
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\bin\Debug\net6.0-windows\PruebaRadio.dll
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\bin\Debug\net6.0-windows\PruebaRadio.pdb
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.csproj.AssemblyReference.cache
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.Form1.resources
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.csproj.GenerateResource.cache
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.dll
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\refint\PruebaRadio.dll
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.pdb
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\PruebaRadio.genruntimeconfig.cache
+C:\Users\Latitude\source\repos\PruebaRadio\PruebaRadio\obj\Debug\net6.0-windows\ref\PruebaRadio.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkI4ZkOTpU8Yje9mwSWQL9RdVXW9XifvHXl3dVq2L8Om5GCMzo9YkuWhVRVrpAmXwgPCz/oTX6Lz8Asi7mGUkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\source\\repos\\DbConsole\\DbConsole\\DbConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

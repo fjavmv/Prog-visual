@@ -1,0 +1,11 @@
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe.config
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.pdb
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csproj.AssemblyReference.cache
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.InterestCalculatorForm.resources
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.Properties.Resources.resources
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csproj.GenerateResource.cache
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.exe
+C:\Users\Latitude\source\repos\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.pdb

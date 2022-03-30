@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmv8ViG5PWWrRr1PFy1gWKwrm1oExQnHfhwonx4p45jIo2RA82exV0cWzC1wKzQtKa1+fQxlkb6hjmt9REBLSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\source\\repos\\DbPostgreUno\\DbPostgreUno\\DbPostgreUno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

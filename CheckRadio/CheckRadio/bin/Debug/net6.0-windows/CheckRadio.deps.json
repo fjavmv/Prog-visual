@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CheckRadio/1.0.0": {
+        "runtime": {
+          "CheckRadio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckRadio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

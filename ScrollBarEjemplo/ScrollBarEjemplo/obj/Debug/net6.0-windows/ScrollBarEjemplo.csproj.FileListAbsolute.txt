@@ -1,0 +1,17 @@
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\bin\Debug\net6.0-windows\ScrollBarEjemplo.exe
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\bin\Debug\net6.0-windows\ScrollBarEjemplo.deps.json
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\bin\Debug\net6.0-windows\ScrollBarEjemplo.runtimeconfig.json
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\bin\Debug\net6.0-windows\ScrollBarEjemplo.dll
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\bin\Debug\net6.0-windows\ScrollBarEjemplo.pdb
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.csproj.AssemblyReference.cache
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.Form1.resources
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.csproj.GenerateResource.cache
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.dll
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\refint\ScrollBarEjemplo.dll
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.pdb
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ScrollBarEjemplo.genruntimeconfig.cache
+C:\Users\Latitude\source\repos\ScrollBarEjemplo\ScrollBarEjemplo\obj\Debug\net6.0-windows\ref\ScrollBarEjemplo.dll

@@ -1,0 +1,17 @@
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\bin\Debug\net6.0-windows\CheckRadio.exe
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\bin\Debug\net6.0-windows\CheckRadio.deps.json
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\bin\Debug\net6.0-windows\CheckRadio.runtimeconfig.json
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\bin\Debug\net6.0-windows\CheckRadio.dll
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\bin\Debug\net6.0-windows\CheckRadio.pdb
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.csproj.AssemblyReference.cache
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.Form1.resources
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.csproj.GenerateResource.cache
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.dll
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\refint\CheckRadio.dll
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.pdb
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\CheckRadio.genruntimeconfig.cache
+C:\Users\Latitude\source\repos\CheckRadio\CheckRadio\obj\Debug\net6.0-windows\ref\CheckRadio.dll
